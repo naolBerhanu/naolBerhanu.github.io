@@ -1,20 +1,14 @@
-# Welcome to Naol's Quest  
+Welcome to Naol’s Quest
+A tech blog for everything that sparks my curiosity—hacking, coding, system admin, and beyond. No fluff, just raw insights from my journey.
 
-Hey, I’m **Naol**, and this is my **never-ending quest through the world of tech**. Whether it's hacking, coding, debugging, or breaking things just to fix them again—this blog is where I share what I learn along the way.  
+Topics I Cover:
+🛡 Cybersecurity & Hacking
+💻 Web & Mobile Dev
+🕵️ Software Testing
+🌍 Networking & SysAdmin
+📊 Data & AI
 
-## What This Blog is About  
+📬 Find me on Telegram: @isnaaol
 
-🛡 **Cybersecurity & Ethical Hacking** – Because security is just controlled chaos.  
-💻 **Software Development** – Web, mobile, backend, and everything in between.  
-🕵️ **Software Testing & QA** – Finding bugs before they find you.  
-🌍 **Networking & System Administration** – Keeping the digital world running.  
-📊 **Data Science & Analytics** – Making sense of numbers and patterns.  
-🚀 **Tech Trends & Beyond** – AI, DevOps, cloud computing, and what’s next.  
+The quest never ends. 🚀
 
-## About Me  
-
-I’m on a mission to explore, experiment, and master as much as I can in the tech world. If it’s **challenging, innovative, or slightly chaotic**, count me in.  
-
-📬 **Let’s Connect**: Ping me on Telegram at **[@isnaaol](https://t.me/isnaaol)**.  
-
-The quest continues. Stay tuned. 🚀  
