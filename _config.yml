@@ -1,10 +1,9 @@
-title: "Laravel Insights"  
+title: "Naol's Quest"  
 author: "Naol"  
-description: "A blog dedicated to Laravel development, best practices, and real-world solutions. Learn everything from routing to advanced Eloquent queries."  
+description: "Exploring everything tech—from coding and cybersecurity to Android dev and software testing. A blog for curious minds and relentless learners."  
 
 # Email / Social media usernames used by the minima theme:
-# All of these are optional and can be removed or commented out  
-email: "naolberhanu100@gmail.com"  
+email: "example@mail.com"  
 telegram_username: "@isnaaol"  
 
 #########################################################################################  
@@ -31,4 +30,4 @@ defaults:
       path: ""  
       type: post  
     values:  
-      tags: Laravel  
+      tags: Tech  
