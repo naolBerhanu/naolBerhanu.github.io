@@ -1,4 +1,4 @@
-title: "Building a Simple Port Scanner in Python"
+# Building a Simple Port Scanner in Python
 ## Introduction
 Port scanning is a fundamental technique in cybersecurity used to discover open ports on a target system. This information can help security professionals identify potential vulnerabilities in a network. In this article, we'll create a simple Python-based port scanner using the `socket` and `threading` libraries.
 
